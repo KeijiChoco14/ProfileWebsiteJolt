@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="24" fill="#064A78"/>
+  <circle cx="50" cy="50" r="38" stroke="#0878B5" stroke-width="4" stroke-dasharray="6 4"/>
+  <!-- Energy Jolt Lightning + Cup Motif -->
+  <path d="M54 22L34 50H48L44 78L68 46H52L58 22H54Z" fill="#36B9E8" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round"/>
+</svg>
